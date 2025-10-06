@@ -12,34 +12,30 @@
 
 ## 🚀 Sobre Mim
 
-```javascript
-const nicolas = {
-  pronouns: "ele/dele",
-  age: 21,
-  location: "São Paulo, Brasil 🇧🇷",
-  education: "Ciência da Computação - 4º Semestre",
-  role: "Estagiário @ Alest Consultoria",
-  code: ["JavaScript", "TypeScript", "Python"],
-  askMeAbout: ["AWS", "Salesforce", "AI/ML", "Full Stack"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js", "TypeScript"],
-      css: ["Material-UI", "TailwindCSS"]
-    },
-    backEnd: {
-      python: ["FastAPI", "Django"],
-      js: ["Node.js", "Express"]
-    },
-    databases: ["PostgreSQL", "MongoDB", "Redis"],
-    cloud: ["AWS", "Google Cloud", "Docker", "Kubernetes"],
-    platforms: ["Salesforce", "Monday.com"]
-  },
-  currentFocus: "AWS Developer Associate Certification (DVA-C02)",
-  workStyle: "AI First - Automação e Produtividade",
-  architecture: ["Microservices", "REST APIs", "Event-Driven"],
-  funFact: "Estudo AWS, Salesforce e IA ao mesmo tempo! 🎯"
-};
-```
+<div align="center">
+
+**👤 Nicolas Dias** • 21 anos • São Paulo, Brasil 🇧🇷
+
+**🎓 Estudante de Ciência da Computação** - 4º Semestre
+
+**💼 Estagiário @ Alest Consultoria**
+
+</div>
+
+### 💻 **Linguagens & Tecnologias**
+- **Frontend**: React, Next.js, TypeScript, Material-UI, TailwindCSS
+- **Backend**: FastAPI, Django, Node.js, Express
+- **Databases**: PostgreSQL, MongoDB, Redis
+- **Cloud**: AWS, Google Cloud, Docker, Kubernetes
+- **Plataformas**: Salesforce, Monday.com
+
+### 🎯 **Foco Atual**
+- 📜 **Certificação**: AWS Developer Associate (DVA-C02)
+- 🤖 **Filosofia**: AI First - Automação e Produtividade
+- 🏗️ **Arquitetura**: Microservices, REST APIs, Event-Driven
+
+### 💡 **Fun Fact**
+> Estudo AWS, Salesforce e IA ao mesmo tempo! 🎯
 
 ## 🎯 Foco Atual
 
@@ -86,11 +82,6 @@ const nicolas = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolasDiasAlest&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasDiasAlest&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
-</div>
-
-<div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=nicolasDiasAlest&theme=dracula&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff"/>
 </div>
 
@@ -130,11 +121,6 @@ const nicolas = {
 </tr>
 </table>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nicolasDiasAlest/nicolasDiasAlest/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
 ## 📫 Conecte-se Comigo
 
@@ -148,18 +134,21 @@ const nicolas = {
 
 ## 💼 Experiência
 
-```javascript
-const experienciaAtual = {
-  empresa: "Alest Consultoria",
-  cargo: "Estagiário - Desenvolvedor",
-  foco: [
-    "Desenvolvimento Salesforce",
-    "Integrações com Monday.com e Google Cloud",
-    "Automações e APIs"
-  ],
-  stack: ["Python", "FastAPI", "React", "TypeScript", "Salesforce"]
-};
-```
+<div align="center">
+
+### 🏢 **Alest Consultoria**
+**Estagiário - Desenvolvedor** | *Atual*
+
+</div>
+
+### 🔧 **Principais Atividades**
+- 🔗 **Desenvolvimento Salesforce** - Apex, LWC, APIs
+- 🌐 **Integrações** - Monday.com e Google Cloud
+- 🤖 **Automações e APIs** - Python, FastAPI
+- ⚛️ **Frontend** - React, TypeScript
+
+### 🛠️ **Stack Utilizada**
+`Python` • `FastAPI` • `React` • `TypeScript` • `Salesforce` • `Google Cloud`
 
 ## 🎮 Hobbies & Interesses
 

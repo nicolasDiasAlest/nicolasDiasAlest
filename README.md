@@ -11,57 +11,35 @@
 </div>
 
 ## 🚀 Sobre Mim
+
+```javascript
 const nicolas = {
-
-pronouns: "ele/dele",
-
-age: 21,
-
-location: "São Paulo, Brasil 🇧🇷",
-
-education: "Ciência da Computação - 4º Semestre",
-
-role: "Estagiário @ Alest Consultoria",
-
-code: ["JavaScript", "TypeScript", "Python"],
-
-askMeAbout: ["AWS", "Salesforce", "AI/ML", "Full Stack"],
-
-technologies: {
-
-frontEnd: {
-
-js: ["React", "Next.js", "TypeScript"],
-
-css: ["Material-UI", "TailwindCSS"]
-
-},
-
-backEnd: {
-
-python: ["FastAPI", "Django"],
-
-js: ["Node.js", "Express"]
-
-},
-
-databases: ["PostgreSQL", "MongoDB", "Redis"],
-
-cloud: ["AWS", "Google Cloud", "Docker", "Kubernetes"],
-
-platforms: ["Salesforce", "[Monday.com](http://Monday.com)"]
-
-},
-
-currentFocus: "AWS Developer Associate Certification (DVA-C02)",
-
-workStyle: "AI First - Automação e Produtividade",
-
-architecture: ["Microservices", "REST APIs", "Event-Driven"],
-
-funFact: "Estudo AWS, Salesforce e IA ao mesmo tempo! 🎯"
-
+  pronouns: "ele/dele",
+  age: 21,
+  location: "São Paulo, Brasil 🇧🇷",
+  education: "Ciência da Computação - 4º Semestre",
+  role: "Estagiário @ Alest Consultoria",
+  code: ["JavaScript", "TypeScript", "Python"],
+  askMeAbout: ["AWS", "Salesforce", "AI/ML", "Full Stack"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js", "TypeScript"],
+      css: ["Material-UI", "TailwindCSS"]
+    },
+    backEnd: {
+      python: ["FastAPI", "Django"],
+      js: ["Node.js", "Express"]
+    },
+    databases: ["PostgreSQL", "MongoDB", "Redis"],
+    cloud: ["AWS", "Google Cloud", "Docker", "Kubernetes"],
+    platforms: ["Salesforce", "Monday.com"]
+  },
+  currentFocus: "AWS Developer Associate Certification (DVA-C02)",
+  workStyle: "AI First - Automação e Produtividade",
+  architecture: ["Microservices", "REST APIs", "Event-Driven"],
+  funFact: "Estudo AWS, Salesforce e IA ao mesmo tempo! 🎯"
 };
+```
 
 ## 🎯 Foco Atual
 
@@ -170,19 +148,18 @@ funFact: "Estudo AWS, Salesforce e IA ao mesmo tempo! 🎯"
 
 ## 💼 Experiência
 
-atual:
-
-empresa: "Alest Consultoria"
-
-cargo: "Estagiário - Desenvolvedor"
-
-foco:
-
-- "Desenvolvimento Salesforce"
-- "Integrações com [Monday.com](http://Monday.com) e Google Cloud"
-- "Automações e APIs"
-
-stack: "Python, FastAPI, React, TypeScript, Salesforce"
+```javascript
+const experienciaAtual = {
+  empresa: "Alest Consultoria",
+  cargo: "Estagiário - Desenvolvedor",
+  foco: [
+    "Desenvolvimento Salesforce",
+    "Integrações com Monday.com e Google Cloud",
+    "Automações e APIs"
+  ],
+  stack: ["Python", "FastAPI", "React", "TypeScript", "Salesforce"]
+};
+```
 
 ## 🎮 Hobbies & Interesses
 
